@@ -1,1 +1,1 @@
-This for of RealtimeCSG adapts the original to work as an UPM Package.
+This fork of RealtimeCSG adapts the original to work as an UPM Package.
