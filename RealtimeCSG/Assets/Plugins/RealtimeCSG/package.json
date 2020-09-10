@@ -1,0 +1,10 @@
+{
+  "name": "com.logicalerror.realtimecsg",
+  "displayName": "Realtime CSG",
+  "version": "1.562.0",
+  "unity": "2020.1",
+  "description": "Realtime CSG is a 'BSP' level design tool that allows you to Intuitively & rapidly create levels. With it's non-destructive workflow you can easily adjust your levels at any time and iterate with instant feedback",
+  "keywords": [],
+  "category": "Unity",
+  "type": "tool"
+}
