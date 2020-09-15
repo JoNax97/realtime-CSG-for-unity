@@ -1,6 +1,8 @@
 {
-    "name": "RealttimeCSG",
-    "references": [],
+    "name": "RealttimeCSG.Editor",
+    "references": [
+        "GUID:4c76fc8c7e0a8944e8872d343d74f8c7"
+    ],
     "includePlatforms": [
         "Editor"
     ],
