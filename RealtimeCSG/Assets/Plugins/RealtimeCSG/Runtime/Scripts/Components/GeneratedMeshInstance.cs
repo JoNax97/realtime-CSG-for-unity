@@ -117,6 +117,7 @@ namespace InternalRealtimeCSG
 
 	[DisallowMultipleComponent]
 	[ExecuteInEditMode]
+	[AddComponentMenu(null)]
 	public sealed class GeneratedMeshInstance : MonoBehaviour
 	{
 		[HideInInspector] public float Version = 1.00f;
